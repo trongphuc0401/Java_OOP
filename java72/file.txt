@@ -1,0 +1,4 @@
+Xin chào mình là Phúc
+Dữ liệu: 
+3.14 Student [id=100, name=Nguyễn Văn A]
+
